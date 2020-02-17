@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2019-09-07 07:34:10 -0500
+categories: welcome
+author: "donatello"
+---
+Hello, I am Shahzaib Paracha!
+
+I am currently pursuing a Honours Degree as a Bachelor of Science candidate, studying Mathematics and Computer Science at the University of Manitoba.
+
+My long time interest lies in applying Mathematics and Statistics to bring about realistic inferences to the forefront, and programming has given me an outlet to fill that void.
+
+And this site is an outlet to showcase the strides I have made in doing so.
+
+Follow my GitHub at [Shahzaib Paracha](https://github.com/ShahzaibP).
